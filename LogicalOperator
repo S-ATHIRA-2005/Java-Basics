@@ -1,0 +1,10 @@
+class LogicalOperator{
+public static void main(String[]strs){
+intb a=20;
+int b=80;
+System.out.println(a>b && b>a);
+System.out.println(a>b || b>a);
+System.out.println !(a>b);
+}
+}
+
